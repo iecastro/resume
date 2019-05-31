@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.sty
+fonts
+awesome-cv.cls
+moderncv.cls

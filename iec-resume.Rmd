@@ -1,0 +1,68 @@
+---
+name: Ivan Castro
+phone: 315 744 6821
+www: iecastro.github.io
+email: "iecastro@syr.edu"
+github: iecastro
+linkedin: iecastro
+date: "`r format(Sys.time(), '%B %Y')`"
+headcolor: 2d2d2d
+docname: Resume
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+library(tidyverse)
+library(vitae)
+```
+
+
+# Relevant Skills
+
+## Data Science
+
+* Statistical programming, Data wrangling, Visualization, Modelling, Spatial analysis, Communication
+
+## Applications
+
+* RStudio, ArcGIS, SPSS, MS Access, Qualtrics
+
+
+# Education
+```{r}
+tribble(
+  ~ uni, ~ degree, ~ loc, ~ dates,
+  "MSPH in Biostatistics", "Syracuse University", "Syracuse, NY", "Aug. 2016 - May 2018",
+  "BA in  Psychology", "SUNY Oswego", "Oswego, NY", "Aug. 2010 - Dec. 2013") %>% 
+  detailed_entries(degree, dates, uni, loc)
+
+```
+
+
+# Relevant Experience
+```{r}
+tribble(
+  ~ role, ~ company, ~ loc, ~ dates, ~ details,
+  "Research Coordinator", "VISN 2 Center for Integrated Healthcare", "Syracuse, NY", "Aug. 2018 - Present", "Administration and management of NIH R34 (treatment development) grant",
+  "Project Manager", "Syracuse University", "Syracuse, NY", "Apr. 2015 - May 2019", "Administration and management of NSF training grant",
+  "Research Assistant", "Syracuse University", "Syracuse, NY", "May 2016 - May 2018", "",
+) %>% 
+  detailed_entries(role, dates, company, loc, details)
+```
+
+
+# Publications
+
+__Castro, I. E.__, Larsen, D. A., Hruska, B., Parson, P. J., Palmer, C. D., and Gump, B. B. (2019). Variability in the spatial density of vacant properties contributes to background lead (Pb) exposure in children. Environmental Research, 170, 463-471.
+
+# Presentations
+
+Dykas, M. J., __Castro, I. E.__, Wolford, K., & Gump, B. B. (April 2018). Psychological flexibility moderates the link between combat exposure and hopelessness in military veterans. ResilienceCon, Nashville, TN.
+
+__Castro, I. E.__ and Dykas, M. J. (March 2018).  Close Relationships among service-members moderate the link between combat and PTSD symptomatology. Poster accepted to Eastern Psychological Association Annual Meeting. Philadelphia, PA. 
+
+__Castro, I. E.__ and Dykas, M. J. (March 2016). The implications of social support and resilience in a Veteran's wellbeing.  Symposium presented at Eastern Psychological Association Annual Meeting. New York, NY.
+
+
