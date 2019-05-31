@@ -41,7 +41,7 @@ tribble(
 ```
 
 
-# Relevant Experience
+# Experience
 ```{r}
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
