@@ -45,10 +45,10 @@ tribble(
 ```{r}
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
-  "Research Coordinator", "VISN 2 Center for Integrated Healthcare", "Syracuse, NY", "Aug. 2018 - Present", "Administration and management of NIH R34 (treatment development) grant",
-  "Project Manager", "Syracuse University", "Syracuse, NY", "Apr. 2015 - May 2019", "Administration and management of NSF training grant",
-  "Research Assistant", "Syracuse University", "Syracuse, NY", "May 2016 - May 2018", "",
-) %>% 
+  "Research Coordinator", "VISN 2 Center for Integrated Healthcare", "Syracuse, NY", "Aug 2018 - Present", "Management of NIH R34 (treatment development) grant",
+  "Research Coordinator", "VISN 2 Center for Integrated Healthcare", "Syracuse, NY", "Aug 2018 - Present", "Coordination of behavioral clinical trial",
+  "Project Manager", "Syracuse University", "Syracuse, NY", "Apr 2015 - May 2019", "Management of NSF-funded training grant",
+  "Research Assistant", "Syracuse University", "Syracuse, NY", "May 2016 - May 2018", "Graduate RA in the Department of Public Health") %>% 
   detailed_entries(role, dates, company, loc, details)
 ```
 
