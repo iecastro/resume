@@ -1,0 +1,180 @@
+---
+title: "IEC resume"
+author: Ivan Castro
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: TRUE
+---
+
+Aside
+================================================================================
+
+Background in research project coordination, biostatistics, and population health data science. Proficiency with data formatting, handling, and analysis.  
+
+Research interests: environmental toxicants, traumatic stress disorders, community-level deprivation, spatial epidemiology.
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> iecastro@syr.edu
+- <i class="fa fa-github"></i> [github.com/iecastro](https://github.com/iecastro)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Data analysis and statistical programming
+
+- Data wrangling
+
+- Data modelling and visualization
+
+- R and RStudio with emphasis on the `tidyverse` and `tidymodels`
+
+- SPSS, ArcGIS, Qualtrics, MS Access
+
+- Github
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+
+
+Main
+================================================================================
+
+Ivan Castro {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Syracuse University
+
+MSPH in Biostatistics
+
+Syracuse, NY
+
+2018
+
+
+### SUNY Oswego
+
+BA in Psychology
+
+Oswego, NY
+
+2013
+
+
+Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Research Coordinator
+
+VISN 2 Center for Integrated Healthcare 
+
+Syracuse, NY
+
+2018 - present
+
+- Manage an NIH R34 (treatment development) grant 
+- Coordinate behavioral clinical trial
+- Write data analysis pipelines
+- Write reproducible workflows for processing monthly recruitment data across multiple projects
+- Create ad hoc data wrangling solutions for national program evaluation  
+
+### Project Manager
+
+Syracuse University
+
+Syracuse, NY
+
+2015 - 2019
+
+- Managed NSF-funded training program in [trauma research](http://traumaresearch.syr.edu/) (Grant No. 1559793)
+- Assisted in the design of social science research studies
+- Created cloud-based data collection surveys
+- Responsible for data management
+
+
+### Research Assistant
+
+Syracuse University
+
+Syracuse, NY
+
+2016 - 2018
+
+- Graduate RA in the Dept. of Public Health
+- Actively involved in several public health research studies: 
+- [Syracuse Lead Study](http://syracuselead.syr.edu/)
+- [Vacantioning and Health](http://vacationhealthstudy.syr.edu/)
+- [College Football Injuries](https://falk.syr.edu/seed-grant/moderating-effects-of-physiological-and-socio-behavior/)
+- Conducted statistical analysis in R and SPSS
+- Conducted spatial analysis in R and ArcGIS
+- Wrote analysis pipelines for modelling environmental exposures to toxicants.
+- Created research databases (Excel, Access)
+- Conducted semi-structured interviews
+- Wrote research reports
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Variability in the spatial density of vacant properties contributes to background lead (Pb) exposure in children.
+
+[Environmental Research, 170, 463-471.](https://doi.org/10.1016/j.envres.2018.12.069)
+
+N/A
+
+2019
+
+**Castro, I. E.**, Larsen, D. A., Hruska, B., Parson, P. J., Palmer, C. D., and Gump, B. B.
+
+
+Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+
+### Psychological flexibility moderates the link between combat exposure and hopelessness in military veterans. 
+
+ResilienceCon
+
+Nashville, TN
+
+2018
+
+Dykas, M. J., **Castro, I. E.**, Wolford, K., & Gump, B. B. 
+
+
+### Close Relationships among service-members moderate the link between combat and PTSD symptomatology.
+
+Psychological Association Annual Meeting
+
+Philadelphia, PA
+
+2018
+
+**Castro, I. E.**and Dykas, M. J.
+
+### The implications of social support and resilience in a Veteran's wellbeing. 
+
+Eastern Psychological Association Annual Meeting
+
+New York, NY
+
+2016
+
+**Castro, I. E.** and Dykas, M. J.
+
+
+
+
+
+
