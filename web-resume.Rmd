@@ -11,7 +11,7 @@ output:
 Aside
 ================================================================================
 
-Background in research project coordination, biostatistics, and population health data science. Proficiency with data formatting, handling, and analysis.  
+Background in research project coordination, biostatistics, and population health data science. Proficiency with data formatting and handling.  
 
 Research interests: environmental toxicants, traumatic stress disorders, community-level deprivation, spatial epidemiology.
 
@@ -31,7 +31,7 @@ Skills {#skills}
 
 - Data modelling and visualization
 
-- R and RStudio with emphasis on the `tidyverse` and `tidymodels`
+- R and RStudio with emphasis on the `tidyverse`
 
 - SPSS, ArcGIS, Qualtrics, MS Access
 
@@ -115,12 +115,12 @@ Syracuse, NY
 - Graduate RA in the Dept. of Public Health
 - Actively involved in several public health research studies: 
 - [Syracuse Lead Study](http://syracuselead.syr.edu/)
-- [Vacantioning and Health](http://vacationhealthstudy.syr.edu/)
+- [Vacationing and Health](http://vacationhealthstudy.syr.edu/)
 - [College Football Injuries](https://falk.syr.edu/seed-grant/moderating-effects-of-physiological-and-socio-behavior/)
 - Conducted statistical analysis in R and SPSS
 - Conducted spatial analysis in R and ArcGIS
 - Wrote analysis pipelines for modelling environmental exposures to toxicants.
-- Created research databases (Excel, Access)
+- Created research databases (MS Access)
 - Conducted semi-structured interviews
 - Wrote research reports
 
