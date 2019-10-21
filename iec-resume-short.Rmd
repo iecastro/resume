@@ -52,16 +52,18 @@ tribble(
 
 # Publications
 
-__Castro, I. E.__, Larsen, D. A., Hruska, B., Parson, P. J., Palmer, C. D., and Gump, B. B. (2019). Variability in the spatial density of vacant properties contributes to background lead (Pb) exposure in children. Environmental Research, 170, 463-471.
+__Castro, I. E.__, Larsen, D. A., Hruska, B., Parson, P. J., Palmer, C. D., and Gump, B. B. (2019). *Variability in the spatial density of vacant properties contributes to background lead (Pb) exposure in children.* Environmental Research, 170, 463-471.
 
 # Presentations
 
-Dykas, M. J., __Castro, I. E.__, Wolford, K., & Gump, B. B. (April 2018). Psychological flexibility moderates the link between combat exposure and hopelessness in military veterans. ResilienceCon, Nashville, TN. 
+- **Castro, I. E.**, Crinnin, C., Mastroleo, N., King, P., Balderrama-Durbin, C., Rauch, S., & Possemato, K. (November 2019). *A Delphi study to integrate Prolonged Exposure for Primary Care and Motivational Enhancement Therapy for heavy alcohol use.* International Society for Traumatic Stress Studies Annual Meeting. Boston, MA.  
 
+- Olson, K., Hruska, B., **Castro, I. E.**, Suffoletto, B., Callaway, C., & Pacella-LaBarbara, M. (October 2019). *The impact of neighborhood deprivation on acute psychological and pain-related outcomes following traumatic injury.* Science 2019. University of Pittsburgh, PA.    
 
-__Castro, I. E.__ and Dykas, M. J. (March 2018).  Close Relationships among service-members moderate the link between combat and PTSD symptomatology. Poster accepted to Eastern Psychological Association Annual Meeting. Philadelphia, PA.  
+- Dykas, M. J., __Castro, I. E.__, Wolford, K., & Gump, B. B. (April 2018). *Psychological flexibility moderates the link between combat exposure and hopelessness in military veterans.* ResilienceCon, Nashville, TN.  
 
+- __Castro, I. E.__ and Dykas, M. J. (March 2018). *Close Relationships among service-members moderate the link between combat and PTSD symptomatology.* Eastern Psychological Association Annual Meeting. Philadelphia, PA.   
 
-__Castro, I. E.__ and Dykas, M. J. (March 2016). The implications of social support and resilience in a Veteran's wellbeing.  Symposium presented at Eastern Psychological Association Annual Meeting. New York, NY. 
+- __Castro, I. E.__ and Dykas, M. J. (March 2016). *The implications of social support and resilience in a Veteran's wellbeing.*  Eastern Psychological Association Annual Meeting. New York, NY.  
 
 
