@@ -1,5 +1,5 @@
 ---
-title: "IEC resume"
+title: "IEC-resume"
 author: Ivan Castro
 date: "`r Sys.Date()`"
 output:
@@ -29,7 +29,7 @@ Skills {#skills}
 
 - Data wrangling
 
-- Data modelling and visualization
+- Data visualization and modelling  
 
 - R and RStudio with emphasis on the `tidyverse`
 
@@ -76,19 +76,26 @@ Oswego, NY
 Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+### Data Analyst  
+
+innoVet Health  
+
+Syracuse, NY  
+
+2020 - present  
+
 ### Research Coordinator
 
 VISN 2 Center for Integrated Healthcare 
 
 Syracuse, NY
 
-2018 - present
+2018 - 2020
 
-- Manage an NIH R34 (treatment development) grant 
-- Coordinate behavioral clinical trial
-- Write data analysis pipelines
-- Write reproducible workflows for processing monthly recruitment data across multiple projects
-- Create ad hoc data wrangling solutions for national program evaluation  
+- Coordinated behavioral clinical trial funded by an NIH R34 (treatment development) grant
+- Managed clinical research data / wrote data analysis pipelines
+- Established reproducible workflows for processing monthly recruitment data
+- Created ad hoc data wrangling solutions for national program evaluation  
 
 ### Project Manager
 
@@ -98,9 +105,9 @@ Syracuse, NY
 
 2015 - 2019
 
-- Managed NSF-funded training program in [trauma research](http://traumaresearch.syr.edu/) (Grant No. 1559793)
+- Managed NSF-funded training program in [trauma research](https://traumaresearch.syr.edu)
 - Assisted in the design of social science research studies
-- Created cloud-based data collection surveys
+- Built surveys for electronic data capture
 - Responsible for data management
 
 
@@ -112,18 +119,12 @@ Syracuse, NY
 
 2016 - 2018
 
-- Graduate RA in the Dept. of Public Health
-- Actively involved in several public health research studies: 
-- [Syracuse Lead Study](http://syracuselead.syr.edu/)
-- [Vacationing and Health](http://vacationhealthstudy.syr.edu/)
-- [College Football Injuries](https://falk.syr.edu/seed-grant/moderating-effects-of-physiological-and-socio-behavior/)
-- Conducted statistical analysis in R and SPSS
-- Conducted spatial analysis in R and ArcGIS
-- Wrote analysis pipelines for modelling environmental exposures to toxicants.
-- Created research databases (MS Access)
-- Conducted semi-structured interviews
-- Wrote research reports
-
+- Graduate RA in the Dept. of Public Health  
+- Actively involved in several public health research studies:   
+- [Syracuse Lead Study](http://syracuselead.syr.edu/) / [Vacationing and Health](http://vacationhealthstudy.syr.edu/) / [College Football Injuries](https://falk.syr.edu/seed-grant/moderating-effects-of-physiological-and-socio-behavior)
+- Conducted statistical analysis in R and SPSS  
+- Conducted spatial analysis in R and ArcGIS  
+- Wrote analysis pipelines for modelling environmental exposures to toxicants.  
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
@@ -136,7 +137,26 @@ N/A
 
 2019
 
-**Castro, I. E.**, Larsen, D. A., Hruska, B., Parson, P. J., Palmer, C. D., and Gump, B. B.
+**Castro, I. E.**, Larsen, D. A., Hruska, B., Parson, P. J., Palmer, C. D., and Gump, B. B.  
+
+
+Software resources {data-icon=code}
+--------------------------------------------------------------------------------
+
+### [tidyVA](https://iecastro.github.io/tidyVA)
+An R package of Veterans Health Administration geographies in simple features format for tidy spatial analysis and visualization.
+
+N/A  
+
+N/A  
+
+
+### [healthdatacsv](http://github.com/iecastro/healthdatacsv)
+An R package to interface with the healthdata.gov API to query the catalog and return tidy data frames.
+
+N/A  
+
+N/A  
 
 
 Presentations {data-icon=comment-alt}

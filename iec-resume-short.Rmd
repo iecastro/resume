@@ -1,7 +1,6 @@
 ---
 name: Ivan Castro
-phone: 315 744 6821
-www: iecastro.github.io
+www: iecastro.netlify.com
 email: "iecastro@syr.edu"
 github: iecastro
 linkedin: iecastro
@@ -31,8 +30,8 @@ __Applications__
 ```{r}
 tribble(
   ~ degree, ~ uni, ~ loc, ~ dates,
-  "MSPH in Biostatistics", "Syracuse University", "Syracuse, NY", "Aug. 2016 - May 2018",
-  "BA in  Psychology", "SUNY Oswego", "Oswego, NY", "Aug. 2010 - Dec. 2013") %>% 
+  "MSPH in Biostatistics", "Syracuse University", "Syracuse, NY", "Aug 2016 - May 2018",
+  "BA in  Psychology", "SUNY Oswego", "Oswego, NY", "Aug 2010 - Dec 2013") %>% 
   detailed_entries(degree, dates, uni, loc)
 
 ```
@@ -42,8 +41,9 @@ tribble(
 ```{r}
 tribble(
   ~ role, ~ company, ~ loc, ~ dates,
-  "Research Coordinator", "VISN 2 Center for Integrated Healthcare", "Syracuse, NY", "Aug. 2018 - Present",
-  "Project Manager", "Syracuse University", "Syracuse, NY", "Apr. 2015 - May 2019",
+  "Data Analyst", "innoVet Health", "Syracuse, NY", "Jan 2020 - present",
+  "Research Coordinator", "VISN 2 Center for Integrated Healthcare", "Syracuse, NY", "Aug 2018 - Jan 2020",
+  "Project Manager", "Syracuse University", "Syracuse, NY", "Apr 2015 - May 2019",
   "Research Assistant", "Syracuse University", "Syracuse, NY", "May 2016 - May 2018",
 ) %>% 
   detailed_entries(role, dates, company, loc)
