@@ -1,0 +1,211 @@
+---
+title: "IEC-resume"
+author: Ivan Castro
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: TRUE
+---
+
+Aside
+================================================================================
+
+Background in research project coordination, biostatistics, and health data science. Proficiency with data formatting and handling.  
+
+Research interests: environmental toxicants, traumatic stress disorders, community-level deprivation, spatial epidemiology.
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> iecastro@syr.edu
+- <i class="fa fa-github"></i> [github.com/iecastro](https://github.com/iecastro)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Data analysis and statistical programming
+
+- Data wrangling
+
+- Data visualization and modelling  
+
+- R and RStudio with emphasis on the `tidyverse`
+
+- SPSS, ArcGIS, Qualtrics, MS Access
+
+- Github
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+
+
+Main
+================================================================================
+
+Ivan Castro {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Syracuse University
+
+MSPH in Biostatistics
+
+Syracuse, NY
+
+2018
+
+
+### SUNY Oswego
+
+BA in Psychology
+
+Oswego, NY
+
+2013
+
+
+Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Research Coordinator
+
+VISN 2 Center for Integrated Healthcare 
+
+Syracuse, NY
+
+2018 - present
+
+
+### Project Manager
+
+Syracuse University
+
+Syracuse, NY
+
+2015 - 2019
+
+
+### Graduate Research Assistant
+
+Syracuse University
+
+Syracuse, NY
+
+2016 - 2018
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Race differences in the effect of Subjective Social Status on hostility and depressive symptoms among 9- to 11-year-old Children  
+
+[J. Racial and Ethnic Health Disparities](https://doi.org/10.1007/s40615-020-00707-9)  
+
+N/A  
+
+2020  
+
+**Castro, I. E.**, Hruska, B., and Gump, B. B.  
+
+
+
+### Variability in the spatial density of vacant properties contributes to background lead (Pb) exposure in children.
+
+[Environmental Research, 170, 463-471.](https://doi.org/10.1016/j.envres.2018.12.069)
+
+N/A
+
+2019
+
+**Castro, I. E.**, Larsen, D. A., Hruska, B., Parson, P. J., Palmer, C. D., and Gump, B. B.  
+
+
+Software resources {data-icon=code}
+--------------------------------------------------------------------------------
+
+### [tidyVA](https://iecastro.github.io/tidyVA)
+An R package of Veterans Health Administration geographies in simple features format for tidy spatial analysis and visualization.
+
+N/A  
+
+N/A  
+
+
+### [healthdatacsv](http://github.com/iecastro/healthdatacsv)
+An R package to interface with the healthdata.gov API to query the catalog and return tidy data frames.
+
+N/A  
+
+N/A  
+
+
+Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+
+### A Delphi study to integrate Prolonged Exposure for Primary Care and Motivational Enhancement Therapy for heavy alcohol use.  
+
+ISTSS Annual Meeting  
+
+Boston, MA  
+
+2019  
+
+**Castro, I. E.**, Crinnin, C., Mastroleo, N., King, P., Balderrama-Durbin, C., Rauch, S., & Possemato, K.  
+
+
+### The impact of neighborhood deprivation on acute psychological and pain-related outcomes following traumatic injury.  
+
+Science 2019
+
+University of Pittsburgh, PA  
+
+2019  
+
+Olson, K., Hruska, B., **Castro, I. E.**, Suffoletto, B., Callaway, C., & Pacella-LaBarbara, M.  
+
+
+### Psychological flexibility moderates the link between combat exposure and hopelessness in military veterans. 
+
+ResilienceCon
+
+Nashville, TN
+
+2018
+
+Dykas, M. J., **Castro, I. E.**, Wolford, K., & Gump, B. B. 
+
+
+### Close Relationships among service-members moderate the link between combat and PTSD symptomatology.
+
+Eastern Psychological Association Annual Meeting
+
+Philadelphia, PA
+
+2018
+
+**Castro, I. E.** and Dykas, M. J.
+
+### The implications of social support and resilience in a Veteran's wellbeing. 
+
+Eastern Psychological Association Annual Meeting
+
+New York, NY
+
+2016
+
+**Castro, I. E.** and Dykas, M. J.
+
+
+
+
+
+
