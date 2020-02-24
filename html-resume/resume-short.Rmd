@@ -106,7 +106,7 @@ Syracuse, NY
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Race differences in the effect of Subjective Social Status on hostility and depressive symptoms among 9- to 11-year-old Children  
+### Race differences in the effect of Subjective Social Status on hostility and depressive symptoms among 9- to 11-year-old Children.  
 
 [J. Racial and Ethnic Health Disparities](https://doi.org/10.1007/s40615-020-00707-9)  
 
@@ -194,7 +194,7 @@ Philadelphia, PA
 
 **Castro, I. E.** and Dykas, M. J.
 
-### The implications of social support and resilience in a Veteran's wellbeing. 
+### The implications of social support and resilience in a Veteran's well being. 
 
 Eastern Psychological Association Annual Meeting
 
