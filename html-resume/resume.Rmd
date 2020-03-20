@@ -41,8 +41,6 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
 
 
 Main
@@ -92,8 +90,8 @@ Syracuse, NY
 
 2018 - 2020
 
-- Coordinated behavioral clinical trial funded by an NIH R34 (treatment development) grant
-- Managed clinical research data / wrote data analysis pipelines
+- Coordinated behavioral clinical trial funded by an NIH R34 grant
+- Managed clinical research data and wrote data analysis pipelines
 - Established reproducible workflows for processing monthly recruitment data
 - Created ad hoc data wrangling solutions for national program evaluation  
 
@@ -122,14 +120,13 @@ Syracuse, NY
 - Graduate RA in the Dept. of Public Health  
 - Actively involved in several public health research studies:   
 - [Syracuse Lead Study](http://syracuselead.syr.edu/) / [Vacationing and Health](http://vacationhealthstudy.syr.edu/) / [College Football Injuries](https://falk.syr.edu/seed-grant/moderating-effects-of-physiological-and-socio-behavior)
-- Conducted statistical analysis in R and SPSS  
-- Conducted spatial analysis in R and ArcGIS  
-- Wrote analysis pipelines for modelling environmental exposures to toxicants.  
+- Performed statistical and spatial analysis in R, ArcGIS, and SPSS  
+- Master's thesis on environmental exposures to toxicants  
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Race differences in the effect of Subjective Social Status on hostility and depressive symptoms among 9- to 11-year-old Children  
+### Race differences in the effect of Subjective Social Status on hostility and depressive symptoms among 9- to 11-year-old children.  
 
 [J. Racial and Ethnic Health Disparities](https://doi.org/10.1007/s40615-020-00707-9)  
 
